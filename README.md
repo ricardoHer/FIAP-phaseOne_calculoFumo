@@ -9,6 +9,7 @@ Program for calculating the amount of money spent on tobacco according to the ye
 ```python calculo_fumo.py```
 
 ## User Case
+To test the application:
 ![Test Case](test/test_case.png)
 
 
