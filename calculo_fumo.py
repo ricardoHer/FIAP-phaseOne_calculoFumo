@@ -51,7 +51,7 @@ qtdeDiasMes = 30
 #   dias = meses / 30
 #   quantidadeMacosPeriodo = dias * mediaMacos
 #   valorTotalGasto = quantidadeMacosPeriodo * valorMedio
-quantidadeMacosPeriodo = ((anosFumante * 12) * qtdeDiasMes) * qtdeMacosPorDia
+quantidadeMacosPeriodo: float = ((anosFumante * 12) * qtdeDiasMes) * qtdeMacosPorDia
 montanteGastoAtualmente: float = quantidadeMacosPeriodo * valorAtualMaco    
 
 # se o valor for abaixo de 20.000 escreva: "Com o valor R$ <montante>, você poderia ter dado entrada em um carro."
