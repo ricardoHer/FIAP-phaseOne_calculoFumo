@@ -11,3 +11,9 @@ Program for calculating the amount of money spent on tobacco according to the ye
 ## User Case
 ![Test Case](test/test_case.png)
 
+
+## Tech Stack
+**Server** Python
+
+## Author
+- [@ricardoHer](https://github.com/ricardoHer)
