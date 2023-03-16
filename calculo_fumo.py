@@ -33,7 +33,7 @@ while True:
     else:
         print("Entrada inválida! Informa apenas números positivos e/ou com decimais separados por ponto (.)")
 
-# ler quantidade média de mácos fumados por dia
+# ler quantidade média de maços fumados por dia
 qtdeMacosPorDia: int
 while True:
     entrada = input("Quantidade de maços por dia.......: ")
