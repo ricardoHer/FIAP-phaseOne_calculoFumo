@@ -34,7 +34,7 @@ while True:
         print("Entrada inválida! Informa apenas números positivos e/ou com decimais separados por ponto (.)")
 
 # ler quantidade média de maços fumados por dia
-qtdeMacosPorDia: int
+qtdeMacosPorDia: float
 while True:
     entrada = input("Quantidade de maços por dia.......: ")
     if entrada.replace(".", "", 1).isdigit():
